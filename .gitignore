@@ -2,3 +2,5 @@
 node_modules/
 artifacts/
 *.log
+
+.vercel
